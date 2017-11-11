@@ -1,6 +1,7 @@
 - clone
-- truffle develop
-    - compile
-    - migrate 
+- `truffle develop`
+    - `compile`
+    - `migrate` 
 - Visit https://jsanguinetti.github.io/pet-shop-tutorial/src/index.html
 - Import accounts into MetaMask
+- (for running locally use `npm run dev`)
